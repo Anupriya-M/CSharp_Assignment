@@ -1,0 +1,7 @@
+C:\Users\AnupriyaVenkateswarl\source\repos\VaccinationApplicationn\VaccinationApplicationn\bin\Debug\VaccinationApplicationn.exe.config
+C:\Users\AnupriyaVenkateswarl\source\repos\VaccinationApplicationn\VaccinationApplicationn\bin\Debug\VaccinationApplicationn.exe
+C:\Users\AnupriyaVenkateswarl\source\repos\VaccinationApplicationn\VaccinationApplicationn\bin\Debug\VaccinationApplicationn.pdb
+C:\Users\AnupriyaVenkateswarl\source\repos\VaccinationApplicationn\VaccinationApplicationn\obj\Debug\Vaccination_Application.csproj.AssemblyReference.cache
+C:\Users\AnupriyaVenkateswarl\source\repos\VaccinationApplicationn\VaccinationApplicationn\obj\Debug\Vaccination_Application.csproj.CoreCompileInputs.cache
+C:\Users\AnupriyaVenkateswarl\source\repos\VaccinationApplicationn\VaccinationApplicationn\obj\Debug\VaccinationApplicationn.exe
+C:\Users\AnupriyaVenkateswarl\source\repos\VaccinationApplicationn\VaccinationApplicationn\obj\Debug\VaccinationApplicationn.pdb
